@@ -30,6 +30,7 @@ The majority of the projects in Kickstarter come from the US (3038), followed by
 In terms of categories, the majority of the projects belong to the theatre (1393), music (700), technology (600) and film&video (520). Theatre and music have the most success but music seems to have very little failures in proportion, so it seems like a good category.
 
 This is readily visible in the following graph that shows a breakdown of the state of projects within the main countries and categories.
+
 <img width="362" src= "https://user-images.githubusercontent.com/77761497/174502236-a36dab07-05df-468a-9b50-ffcd28636749.png">
 
 
@@ -62,9 +63,9 @@ When looking at all the years and categories combined throughout Jan-Dec, it see
 <img width="362" src= "https://user-images.githubusercontent.com/77761497/174502009-91e9d2df-546a-46a0-9069-072a9493f916.png">
 
 ## Conclusions
-•	Having a project within the music category, more specifically within indie rock or rock subcategory, has a high chance of being successful.
-•	Do not have a project in wearables technology, since the failure rate is higher than successful projects.
-•	It was easier to get a successful project when launching between 2009-13 but still music and theatre have maintained a higher success rate in recent years, this doesn’t happen within technology or film, so it’s not recommended to launch a project in the latter sectors.
+1. Having a project within the music category, more specifically within indie rock or rock subcategory, has a high chance of being successful.
+2. Do not have a project in wearables technology, since the failure rate is higher than successful projects.
+3. It was easier to get a successful project when launching between 2009-13 but still music and theatre have maintained a higher success rate in recent years, this doesn’t happen within technology or film, so it’s not recommended to launch a project in the latter sectors.
 
 ## Limitations
 
@@ -90,7 +91,7 @@ If one were to describe a successful crowdfunding campaign, most people would us
 
 ![image](https://user-images.githubusercontent.com/77761497/174502559-50bb539c-beb8-4c3b-8d07-eeea8874efae.png)
 
-<img width="367" alt="image" src="https://user-images.githubusercontent.com/77761497/174502509-3c178662-7dcd-465f-8704-ce46d550d943.png">
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/77761497/174502718-85495caa-00bb-406a-8ca3-496c9e20bf28.png">
 
 1.	Use your data to determine whether the mean or the median . 
 The median summarizes the data more meaningfully, since it is a better representation of the data since the sample is not normally distributed. This means that the dataset contains many outliers and thus an average calculation can't represent well the data set when it’s so spread.
