@@ -30,33 +30,38 @@ The majority of the projects in Kickstarter come from the US (3038), followed by
 In terms of categories, the majority of the projects belong to the theatre (1393), music (700), technology (600) and film&video (520). Theatre and music have the most success but music seems to have very little failures in proportion, so it seems like a good category.
 
 This is readily visible in the following graph that shows a breakdown of the state of projects within the main countries and categories.
+<img width="362" src= "https://user-images.githubusercontent.com/77761497/174502236-a36dab07-05df-468a-9b50-ffcd28636749.png">
 
-![image](https://user-images.githubusercontent.com/77761497/174501537-5aeff0f2-b846-4f5c-8e2e-6baf4403d740.png)
 
 When analysing subcategories, 
-•	within theatre: plays have the most successful and failed projects; 
-•	within music: indie rock and rock have the most successful projects (remarkably rock hasn’t had failed projects); 
-![image](https://user-images.githubusercontent.com/77761497/174502062-7156ed1d-dafd-4cd0-9a20-fa3b0e78b391.png)
+within theatre: plays have the most successful and failed projects; 
+within music: indie rock and rock have the most successful projects (remarkably rock hasn’t had failed projects); 
+within technology: hardware has the most success and wearables the most failures; 
+and within film: documentaries have the most success, while animation and drama have the most failures.
 
-•	within technology: hardware has the most success and wearables the most failures; 
-•	and within film: documentaries have the most success, while animation and drama have the most failures.
+<img width="362" src= "https://user-images.githubusercontent.com/77761497/174502258-81c25cfe-3e92-4c0e-838a-16f08eb81f1f.png">
+
 
 ### Analysis by year
 
 Between the years 2009-2013 there was a steady increase of project proposals and the chances of getting it successful were high.
 Between the years 2013-16 there was a sharp increase in project proposals and the number of failed projects also spiked up, indicating that it's harder to get projects funded in recent years.
-![image](https://user-images.githubusercontent.com/77761497/174501934-b0390427-f82e-4f01-bc9b-8545103fed4d.png)
+
+<img width="362" src= "https://user-images.githubusercontent.com/77761497/174501934-b0390427-f82e-4f01-bc9b-8545103fed4d.png">
 
 When looking at the most popular categories, it seems like music, followed by theatre, are the most popular sectors that have maintained a higher rate of success over failures throughout the years. 
-![image](https://user-images.githubusercontent.com/77761497/174501956-3b6fa1dc-b6ee-4181-b159-a2b8c6d4ec35.png)
+
+<img width="362" src= "https://user-images.githubusercontent.com/77761497/174501956-3b6fa1dc-b6ee-4181-b159-a2b8c6d4ec35.png">
 
 While technology and film have had a close number of failures to success in recent years.
-![image](https://user-images.githubusercontent.com/77761497/174501985-254659d4-1614-4998-8f5c-5c07b11e5a95.png)
+
+<img width="362" src= "https://user-images.githubusercontent.com/77761497/174501985-254659d4-1614-4998-8f5c-5c07b11e5a95.png">
 
 When looking at all the years and categories combined throughout Jan-Dec, it seems like there is an overall decline of successful projects as the year moves forward, so it might be recommended to launch the project early on.
-![image](https://user-images.githubusercontent.com/77761497/174502009-91e9d2df-546a-46a0-9069-072a9493f916.png)
 
-### Conclusions
+<img width="362" src= "https://user-images.githubusercontent.com/77761497/174502009-91e9d2df-546a-46a0-9069-072a9493f916.png">
+
+## Conclusions
 •	Having a project within the music category, more specifically within indie rock or rock subcategory, has a high chance of being successful.
 •	Do not have a project in wearables technology, since the failure rate is higher than successful projects.
 •	It was easier to get a successful project when launching between 2009-13 but still music and theatre have maintained a higher success rate in recent years, this doesn’t happen within technology or film, so it’s not recommended to launch a project in the latter sectors.
@@ -75,6 +80,20 @@ We could also focus on a specific category of interest (despite this not being o
 ## Bonus Analysis 
 
 From this plot, it can be observed that there is an inverse correlation between goal amounts and success. 
-Where the projects with the lowest target amounts ($1000 to $15000) reached the highest success and the least failures or cancelations. Whereas the highest targets (over $45000), reach the lowest success, and highest number of failures and cancellations.
+Where the projects with the lowest target amounts ($1000 to $15000) reached the highest success and the least failures or cancelations. Whereas the highest targets (over $45000), reached the lowest success and highest number of failures and cancellations.
 
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/77761497/174502432-6ee79b85-4bef-4ff3-bfba-f102f083fc6f.png">
 
+## Bonus Statistical Analysis 
+
+If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. To characterize such quantitative metric, I have created a summary statistics table to evaluate the number of backers of successful and unsuccessful campaigns.
+
+![image](https://user-images.githubusercontent.com/77761497/174502559-50bb539c-beb8-4c3b-8d07-eeea8874efae.png)
+
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/77761497/174502509-3c178662-7dcd-465f-8704-ce46d550d943.png">
+
+1.	Use your data to determine whether the mean or the median . 
+The median summarizes the data more meaningfully, since it is a better representation of the data since the sample is not normally distributed. This means that the dataset contains many outliers and thus an average calculation can't represent well the data set when it’s so spread.
+
+2.	Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not? 
+There is more variance within successful campaigns. This makes sense since the range of number of backers is also broader in successful campaigns (1-26457) compared to failed campaigns (1-1293).
